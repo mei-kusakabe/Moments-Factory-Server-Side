@@ -1,0 +1,44 @@
+[
+    {
+        "service_id": "01",
+        "title": "Editorial Photography",
+        "img": "https://shotkit.com/wp-content/uploads/2020/10/Editorial-photography-featured.jpg",
+        "price": "7000 Tk",
+        "description": "Jafrin photographs for various magazines, supplements and websites, photographing front covers, features and reviews from portraits for many magazine,to travel features for flight magazine. Working with writers and editors to ensure the imagery created supports and reflects the story and text written for the the feature.Commissions often illustrate factual stories therefore the integrity of the image is essential with the need to capture the essence of the scene and story being told, inline with the vision of the client."
+    },
+    {
+        "service_id": "02",
+        "title": "Cooking Photography",
+        "img": "https://www.productionparadise.com/blog/wp-content/uploads/2020/01/Capture.jpg",
+        "price": "4000 Tk",
+        "description": "Accomplished at working with restaurants, publishers and PR & Advertising agencies to create distinctive Food & Drink photography.Including studio photoshoots as well as still-life or lifestyle imagery on location at restaurants, private members clubs, cafes or bars.The resulting photographs are then implemented across websites, social media and in print collateral such as magazines, cookbooks and various other press, marketing or advertising campaigns."
+    },
+    {
+        "service_id": "03",
+        "title": "Event Photography",
+        "img": "https://i.insider.com/5f84a29891aa9e001880b0e1?width=1300&format=jpeg&auto=webp",
+        "price": "25000 Tk",
+        "description": "Event photographer Jafrin photographs various events, capturing the atmosphere and personalities of each occasion.From conference photography for Marks and Spencer, product launches, seminars to restaurant Pop-Ups and opening nights for bars throughout Bangladesh. "
+    },
+    {
+        "service_id": "04",
+        "title": "Nature Photography",
+        "img": "https://i1.adis.ws/i/canon/canon-get-inspired-urban-nature-photography-tips-1-1920x1080-tint?qlt=80&w=1920&sm=aspect&aspect=16:9&fmt=webp&bg=rgb(255,255,255)",
+        "price": "5000 Tk",
+        "description": "Working closely with nature to create natural arrangements for e-commerce websites,social media and print collateral. Jafrin specialises in product photography with attention to detail that shows the exact colour and size of scenarios for tourists spots, to lifestyle photography with models and varied environments."
+    },
+    {
+        "service_id": "05",
+        "title": "Social Media And Email Marketing Photography",
+        "img": "https://cdn2.avada.io/media/resources/pSAQax1.jpg",
+        "price": "8000 Tk",
+        "description": "Working with brands to create a range of captivating social media content that followers will want to engage with,from lifestyle and product photography to animated GIFS and videos, which Jafrin films, edits and builds."
+    },
+    {
+        "service_id": "06",
+        "title": "Fashion Photography",
+        "img": "https://miro.medium.com/max/640/0*vPvQ5rOQdarncYh_.png",
+        "price": "10000 Tk",
+        "description": "Working with models to create a range of captivating social media content that followers will want to engage with,from lifestyle and create quality photos and videos, which Jafrin, edits and builds."
+    }
+]
